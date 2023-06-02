@@ -1,1 +1,1 @@
-# Server-components
+# Решения для сервера
